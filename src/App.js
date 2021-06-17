@@ -53,15 +53,13 @@ function App() {
         text.textContent = total;
     };
 
-    function smallAnimation(){
-        console.log('ttt')
-    }
+
 
 
   return (
     <div className="app">
 
-          <div className="app__block" onMouseOver={smallAnimation}>
+          <div className="app__block">
                 <h2 className="app__block-title">Генератор паролей</h2>
                 <div className="app__block-pswrd">- - - - -</div>
                 <p className="app__block-text"><b>Комментарий:</b> 12 символов, из них 4 цифры и 8 латинских букв в верхнем и нижнем регистре.</p>

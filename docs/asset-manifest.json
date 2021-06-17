@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2175849e.chunk.css",
+    "main.js": "/static/js/main.b927fd8c.chunk.js",
+    "main.js.map": "/static/js/main.b927fd8c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48449171.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48449171.js.map",
+    "static/js/2.5f7b9aac.chunk.js": "/static/js/2.5f7b9aac.chunk.js",
+    "static/js/2.5f7b9aac.chunk.js.map": "/static/js/2.5f7b9aac.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2175849e.chunk.css.map": "/static/css/main.2175849e.chunk.css.map",
+    "static/js/2.5f7b9aac.chunk.js.LICENSE.txt": "/static/js/2.5f7b9aac.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/bg.ba2f889d.jpg",
+    "static/media/index.scss": "/static/media/proximanovaexcn-thin.a5626425.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48449171.js",
+    "static/js/2.5f7b9aac.chunk.js",
+    "static/css/main.2175849e.chunk.css",
+    "static/js/main.b927fd8c.chunk.js"
+  ]
+}
